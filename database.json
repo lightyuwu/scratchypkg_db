@@ -4,6 +4,7 @@
     "name": "Simple Mouse Scrolling",
     "author": ["Lighty", "lightyuwu"],
     "root_path": "https://raw.githubusercontent.com/lightyuwu/scratchypkg_examples/mouse-scroll",
-    "image": "placeholder.png"
+    "image": "placeholder.png",
+    "git_project": "https://github.com/lightyuwu/scratchypkg_examples.git"
   }
 ]
