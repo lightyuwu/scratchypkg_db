@@ -1,0 +1,9 @@
+[
+  {
+    "id": "camera-renderer",
+    "name": "Simple Camera Renderer",
+    "author": ["Lighty", "lightyuwu"],
+    "url": "https://raw.githubusercontent.com/lightyuwu/scratchypkg_examples/camera-renderer.zip",
+    "image": "placeholder.png"
+  }
+]
